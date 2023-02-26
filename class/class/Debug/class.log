@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\user\source\repos\class\class\source.cpp(5): error C2011: KaK: переопределение типа "class"
+  c:\users\user\source\repos\class\class\header.h(1): note:  см. объявление "KaK"
+c:\users\user\source\repos\class\class\source.cpp(41): error C2079: "mas" использует не имеющую определения структуру class "KaK"
+c:\users\user\source\repos\class\class\source.cpp(47): error C2109: для индекса требуется массив или указатель
+c:\users\user\source\repos\class\class\source.cpp(48): error C2109: для индекса требуется массив или указатель
+c:\users\user\source\repos\class\class\source.cpp(50): error C2109: для индекса требуется массив или указатель
+c:\users\user\source\repos\class\class\source.cpp(57): error C2109: для индекса требуется массив или указатель
+c:\users\user\source\repos\class\class\source.cpp(58): error C2109: для индекса требуется массив или указатель
+c:\users\user\source\repos\class\class\source.cpp(59): error C2109: для индекса требуется массив или указатель
+  Source1.cpp
+c:\users\user\source\repos\class\class\source1.cpp(11): error C2065: a: необъявленный идентификатор
+c:\users\user\source\repos\class\class\source1.cpp(11): error C2065: b: необъявленный идентификатор
+c:\users\user\source\repos\class\class\source1.cpp(11): error C2065: c: необъявленный идентификатор
+c:\users\user\source\repos\class\class\source1.cpp(15): error C2065: p: необъявленный идентификатор
+c:\users\user\source\repos\class\class\source1.cpp(19): error C2065: s: необъявленный идентификатор
+  Создание кода...
